@@ -23,7 +23,7 @@ A full study reference of every important command I learned, structured in a cle
 ### `linux-cheatsheet.md`
 A condensed version with the commands I use most frequently.
 
-### `labs/` *(optional folder)*
+### `labs/` 
 Hands-on exercises such as:  
 - Linux VM setup  
 - SSH configuration  
